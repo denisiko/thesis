@@ -1,10 +1,11 @@
-Titel: Konzeption und Entwicklung einer Nutzerschnittstelle zur Visualisierung heterogener Bezüge im Cranach Digital Archive
+Titel: Die Darstellung heterogener Bezüge im Cranach Digital Archive
 
 Zielbild: Es werden Methoden zur Visualisierung von semantischen Bezügen zwischen Kunstwerken des Cranach Digital Archive untersucht. Ziel ist es, eine Nutzerschnittstelle zu entwickeln, die Beziehungen zwischen den Werken sichtbar macht und neue Einblicke in deren Kontexte ermöglicht.
 
 Wege zur Zielerreichung:
 
-- Analyse und Vergleich bestehender Visualisierungstechniken für semantische Bezüge insbesondere im Kontext von Kunstwerken
+- Analyse semantischer Facetten von Kunstwerken insbesondere aus kunsthistorischer Sicht
+- Analyse und Vergleich bestehender Visualisierungsmethoden für semantische Bezüge
 - Erarbeitung geeigneter Ansätze für die Visualisierung der bereits erfassten Bezüge im Cranach Digital Archive
 - Konzeption einer Nutzerschnittstelle für Werke des Cranach Digital Archive und ihre Bezüge
 - Entwicklung eines webbasierten Prototypen
